@@ -1,0 +1,11 @@
+2022-08-04 21:27:48,734 Starting new HTTPS connection (1): api-shipx-pl.easypack24.net:443
+2022-08-04 21:27:50,245 https://api-shipx-pl.easypack24.net:443 "GET / HTTP/1.1" 200 None
+2022-08-04 21:27:50,253 1. Wysy³a³ ¿¹danie GET na zadany host
+2022-08-04 21:27:50,253 2. Mierzy³ czas od wys³ania ¿¹dania do czasu otrzymania odpowiedzi
+2022-08-04 21:27:50,254 1.525468
+2022-08-04 21:27:50,254 3. Sprawdza³ kod odpowiedzi HTTP
+2022-08-04 21:27:50,254 200
+2022-08-04 21:27:50,254 4. Sprawdza³ czy odpowiedŸ to JSON
+2022-08-04 21:27:50,255 application/json; charset=utf-8
+2022-08-04 21:27:50,255 5. Walidowa³ czy JSON z odpowiedzi ma prawid³ow¹ sk³adniê
+2022-08-04 21:27:50,255 {'version': '1.40.0.1'}

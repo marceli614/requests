@@ -1,0 +1,12 @@
+
+
+main.py arg0 arg1 arg2
+
+arg0 host url
+
+arg1 n
+
+arg2 c
+
+n-x
+c-y
